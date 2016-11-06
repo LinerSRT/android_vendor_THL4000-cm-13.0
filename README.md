@@ -1,0 +1,1 @@
+# android_vendor_THL4000-cm-13.0
